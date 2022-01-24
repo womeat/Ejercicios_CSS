@@ -1,0 +1,17 @@
+.primera{
+    background-color: black;
+    color:blanchedalmond;
+    list-style: none;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 38px;
+
+}
+
+.primera li:hover{
+    color:chartreuse
+
+}

@@ -1,0 +1,18 @@
+.menu{
+margin: 20px;
+
+}
+
+.menu p{
+    align-items: center;
+    background-color: rgb(39, 119, 146);
+    width: 85px;
+}
+
+.menu a:hover{
+    color:rgb(238, 44, 44)
+}
+
+.menu a:visited{
+    color: rgb(52, 223, 126);
+}
